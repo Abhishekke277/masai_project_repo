@@ -7,3 +7,5 @@ I am currently pursuing a Software Development and Applied AI course from IIT Pa
 - Python  
 - HTML, CSS, JavaScript  
 - Basic React & Node.js  
+- Git and Github
+
